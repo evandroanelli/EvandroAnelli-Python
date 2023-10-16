@@ -1,0 +1,22 @@
+n1 = float(input('Escolha um número e vamos conhecer sua tabuada: '))
+a1 = n1*1
+a2 = n1*2
+a3 = n1*3
+a4 = n1*4
+a5 = n1*5
+a6 = n1*6
+a7 = n1*7
+a8 = n1*8
+a9 = n1*9
+a10 = n1*10
+print('Boa! Seu número é {:.0f}.' .format(n1))
+print('1x{:.0f}={:.0f}'. format(n1,a1))
+print('2x{:.0f}={:.0f}'. format(n1,a2))
+print('3x{:.0f}={:.0f}'. format(n1,a3))
+print('4x{:.0f}={:.0f}'. format(n1,a4))
+print('5x{:.0f}={:.0f}'. format(n1,a5))
+print('6x{:.0f}={:.0f}'. format(n1,a6))
+print('7x{:.0f}={:.0f}'. format(n1,a7))
+print('8x{:.0f}={:.0f}'. format(n1,a8))
+print('9x{:.0f}={:.0f}'. format(n1,a9))
+print('10x{:.0f}={:.0f}'. format(n1,a10))
